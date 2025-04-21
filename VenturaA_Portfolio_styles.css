@@ -1,1 +1,28 @@
+*{
+  box-sizing:border-box;
+}
 
+
+* .header{
+  text-align: center;
+  font: garamond;
+  color: white;
+  background-color:pink;
+  font-size:50px; 
+}
+
+* .header2{
+  text-align: center;
+  font: garamond;
+  color: white;
+  background-color:pink;
+  font-size:20px; 
+}
+
+* .main{
+   text-align: left;
+  font: garamond;
+  color: pink;
+  background-color:white;
+  font-size:50px; 
+}

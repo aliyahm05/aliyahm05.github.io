@@ -26,3 +26,10 @@
   background-color:white;
   font-size:50px; 
 }
+
+.topnav {
+  font-family: Verdana;
+  font-size: 1vw;
+  background-color:rgb(100,0,125);
+  overflow: hidden;
+  vertical-align:center;
